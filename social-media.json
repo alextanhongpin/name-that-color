@@ -1,0 +1,208 @@
+[{
+    "name": "facebook",
+    "hex": "#1877f2"
+}, {
+    "name": "facebook-old",
+    "hex": "#3b5998"
+}, {
+    "name": "twitter",
+    "hex": "#1da1f2"
+}, {
+    "name": "youtube",
+    "hex": "#ff0000"
+}, {
+    "name": "instagram-magenta",
+    "hex": "#c32aa3"
+}, {
+    "name": "instagram-blue",
+    "hex": "#4c5fd7"
+}, {
+    "name": "instagram-purple",
+    "hex": "#7232bd"
+}, {
+    "name": "instagram-orange",
+    "hex": "#f46f30"
+}, {
+    "name": "instagram-yellow",
+    "hex": "#ffdc7d"
+}, {
+    "name": "google-blue",
+    "hex": "#4285f4"
+}, {
+    "name": "google-red",
+    "hex": "#ea4335"
+}, {
+    "name": "google-yellow",
+    "hex": "#fbbc05"
+}, {
+    "name": "google-green",
+    "hex": "#34a853"
+}, {
+    "name": "pinterest",
+    "hex": "#bd081c"
+}, {
+    "name": "google-plus",
+    "hex": "#db4437"
+}, {
+    "name": "linkedin",
+    "hex": "#007bb5"
+}, {
+    "name": "vimeo-blue",
+    "hex": "#1ab7ea"
+}, {
+    "name": "tumblr",
+    "hex": "#2c4762"
+}, {
+    "name": "snapchat",
+    "hex": "#fffc00"
+}, {
+    "name": "whatsapp-green",
+    "hex": "#25d366"
+}, {
+    "name": "whatsapp-teal1",
+    "hex": "#075e54"
+}, {
+    "name": "whatsapp-teal2",
+    "hex": "#128c7e"
+}, {
+    "name": "mastodon",
+    "hex": "#2b90d9"
+}, {
+    "name": "apple",
+    "hex": "#a6b1b7"
+}, {
+    "name": "amazon",
+    "hex": "#ff9900"
+}, {
+    "name": "microsoft-red",
+    "hex": "#f35022"
+}, {
+    "name": "microsoft-green",
+    "hex": "#80bb03"
+}, {
+    "name": "microsoft-blue",
+    "hex": "#03a5f0"
+}, {
+    "name": "microsoft-yellow",
+    "hex": "#ffb903"
+}, {
+    "name": "periscope",
+    "hex": "#40a4c4"
+}, {
+    "name": "foursquare-pink",
+    "hex": "#f94877"
+}, {
+    "name": "foursquare-navy",
+    "hex": "#073282"
+}, {
+    "name": "foursquare-blue",
+    "hex": "#2d5be3"
+}, {
+    "name": "yelp",
+    "hex": "#d32323"
+}, {
+    "name": "swarm",
+    "hex": "#ffa633"
+}, {
+    "name": "medium",
+    "hex": "#02b875"
+}, {
+    "name": "skype-blue",
+    "hex": "#00aff0"
+}, {
+    "name": "skype-dkblue",
+    "hex": "#0078d7"
+}, {
+    "name": "android",
+    "hex": "#a4c639"
+}, {
+    "name": "twitch",
+    "hex": "#9146ff"
+}, {
+    "name": "stumbleupon",
+    "hex": "#e94826"
+}, {
+    "name": "flickr-pink",
+    "hex": "#f40083"
+}, {
+    "name": "flickr-blue",
+    "hex": "#006add"
+}, {
+    "name": "yahoo",
+    "hex": "#430297"
+}, {
+    "name": "soundcloud",
+    "hex": "#ff5500"
+}, {
+    "name": "spotify-green",
+    "hex": "#1ed760"
+}, {
+    "name": "spotify-darkgreen",
+    "hex": "#1db954"
+}, {
+    "name": "dribbble",
+    "hex": "#ea4c89"
+}, {
+    "name": "slack-purple",
+    "hex": "#4a154b"
+}, {
+    "name": "slack-blue",
+    "hex": "#36c5f0"
+}, {
+    "name": "slack-green",
+    "hex": "#2eb67d"
+}, {
+    "name": "slack-red",
+    "hex": "#e01e5a"
+}, {
+    "name": "slack-yellow",
+    "hex": "#ecb22e"
+}, {
+    "name": "reddit",
+    "hex": "#ff5700"
+}, {
+    "name": "deviantart",
+    "hex": "#05cc47"
+}, {
+    "name": "pocket",
+    "hex": "#ee4056"
+}, {
+    "name": "quora",
+    "hex": "#aa2200"
+}, {
+    "name": "quora-blue",
+    "hex": "#2b6dad"
+}, {
+    "name": "slideshare-orange",
+    "hex": "#e68523"
+}, {
+    "name": "slideshare-blue",
+    "hex": "#00a0dc"
+}, {
+    "name": "fivehundredpx",
+    "hex": "#0099e5"
+}, {
+    "name": "vk",
+    "hex": "#4a76a8"
+}, {
+    "name": "listly-orange",
+    "hex": "#df6d46"
+}, {
+    "name": "listly-blue",
+    "hex": "#52b1b3"
+}, {
+    "name": "vine",
+    "hex": "#00b489"
+}, {
+    "name": "steam",
+    "hex": "#171a21"
+}, {
+    "name": "discord",
+    "hex": "#7289da"
+}, {
+    "name": "telegram",
+    "hex": "#0088cc"
+}, {
+    "name": "clarity",
+    "hex": "#61bed9"
+}]
